@@ -1,4 +1,4 @@
-module github.com/FurqanSoftware/goldmark-d2
+module github.com/antonklava/goldmark-d2
 
 go 1.19
 
